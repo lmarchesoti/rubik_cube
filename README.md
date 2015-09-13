@@ -39,6 +39,7 @@ There is no face selection feedback.
 (Consider left-bottom as origin)
 
 *Along x axis*
+
 Q: select 1st layer
 
 W: select 2nd layer
@@ -46,6 +47,7 @@ W: select 2nd layer
 E: select 3rd layer
 
 *Along y axis*
+
 A: select 1st layer
 
 S: select 2nd layer
@@ -53,6 +55,7 @@ S: select 2nd layer
 D: select 3rd layer
 
 *Along z axis*
+
 Z: select 1st layer
 
 X: select 2nd layer
