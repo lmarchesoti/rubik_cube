@@ -7,9 +7,9 @@ This project was done for a Computer Graphics course in my last graduation perio
 
 Everything is in one file just because.
 
-**Compile with:** g++ src/main.cpp -std=c++0x -lglut -lGLU -o rubik\_cube
+**Compile with:** make
 
-(I might come back and create a makefile later...)
+**Run with:** ./rubik\_cube
 
 ### Commands
 
