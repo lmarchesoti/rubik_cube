@@ -7,9 +7,9 @@ This project was done for a Computer Graphics course in my last graduation perio
 
 Everything is in one file just because.
 
-**Compile with:** make
+**Compile with:** *make*
 
-**Run with:** ./rubik\_cube
+**Run with:** *./rubik\_cube*
 
 ### Commands
 
